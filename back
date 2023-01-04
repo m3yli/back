@@ -1,0 +1,32 @@
+.backfundo {
+  font-family: Bahnschrift SemiBold;
+  background-color: #111;
+  width: 400px;
+  height: auto;
+  border-right: 15px solid #febe01;
+  padding: 30px;
+  text-align: justify;
+  border-radius: 5px;
+}
+
+.backtitulo2 {
+  color: #febe01;
+  font-size: 70px;
+}
+
+.backtitulo {
+  color: #fff;
+  font-size: 70px;
+}
+
+.backtexto {
+  color: #b2b2b2;
+  text-align: justify;
+  font-size: 13px;
+}
+
+.serafim {
+  font-size: 9px;
+  text-align: center;
+  color: #b2b2b2;
+}
